@@ -1,0 +1,30 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: aqua;
+  margin: 0px;
+  padding: 20px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: azure;
+  margin: 10px 0;
+}
+
+button {
+  background-color: plum;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: purple;
+}
